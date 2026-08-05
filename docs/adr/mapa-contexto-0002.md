@@ -2,23 +2,19 @@
 
 ## Pessoas
 A cantina física interage principalmente com o caixa, cozinheiros e clientes.
-* Caixa - Realiza o atendimento de clientes que não realizaram a reserva pelo aplicativo.
-* Cozinheiros - Cozinham o pedido e chamam o nome do cliente quando o pedido está pronto.
-* Alunos - realizam o pedido pelo aplicativo ou presencialmente.
+* Caixa - Realiza o atendimento de clientes e recebe pagamento.
+* Cozinheiros - Cozinham o pedido e chamam o nome do cliente.
+* Alunos - realizam o pedido.
 * Coordenação - definem as regras de negócio e de funcionamento da cantina
 
 
 ## Processos e Sistemas Existentes
-* Máquinas de cartão e sistemas de caixa - Sistemas de pagamento para clientes que realizam o pedido na cantina.
-* Atendimento presencial na cantina.
-* Pedido só efetuado após pagamento.
-* A cantina segue sendo o local de preparo e retirada de pedidos.
-* Acúmulo de alunos gerando fila enorme o que faz alguns alunos de comprar na cantina.
+* A cantina é o local de preparo e retirada de pedidos.
+* Acúmulo de alunos gerando fila considerável o que faz alguns alunos de desistirem de comprar na cantina.
 
 ## Limitações
 * Poucos funcionários disponíveis.
 * O aluno não comparecer para receber o pedido.
-* Horário de funcionamento determinado pela instituição de ensino.
 
 
 ## Operacional
